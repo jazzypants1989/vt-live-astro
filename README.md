@@ -6,8 +6,6 @@
 
 ### I'm just showing how easy Astro makes View Transitions.
 
-## PULL REQUESTS WELCOME!
-
 For the next few weeks, you'll still need to have these flags enabled.
 
 
